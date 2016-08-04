@@ -1,0 +1,29 @@
+_repo: Nine-Short-Essays_3108
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warner, Charles Dudley
+    birthdate: 1829
+    deathdate: 1900
+    gutenberg_agent_id: '993'
+    url: http://www.gutenberg.org/2009/agents/993
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dudley_Warner
+description: ''
+gutenberg_issued: '2004-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3108'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Essays'
+- GITenberg
+tableOfContents: A night in the garden of the Tuileries -- Truthfulness -- The pursuit
+  of happiness -- Literature and the stage -- The life-saving and life prolonging
+  art -- "H.H." in southern California -- Simplicity -- The English volunteers during
+  the late invasion -- Nathan Hale.
+title: Nine Short Essays
+url: http://www.gutenberg.org/ebooks/3108
